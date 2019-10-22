@@ -7,7 +7,7 @@ System.out.println("hahaha");
 *111
 *222
 
-!.[구글로 가기].(https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
+![구글로 가기](https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_92x30dp.png)
 
 You can use the [editor on GitHub](https://github.com/JIiminIT/JliminIT.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
